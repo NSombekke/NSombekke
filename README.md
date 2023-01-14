@@ -4,4 +4,4 @@
 - 🛠️ Main programming languages: Python, Typescript
 - 🌱 Currently learning React!
 - 💼 Programming mentor @ [Winc Academy](https://www.wincacademy.com/#)
-- 🚀 In spare time working on my [personal website](https://nsombekke.nl)
+- 🚀 [Personal website](https://nsombekke.nl) (in progress)
